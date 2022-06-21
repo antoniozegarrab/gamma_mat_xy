@@ -12,9 +12,9 @@ setup(
     version='0.0.1',
     description='From classical to quantum machine learning with tensor networks',
     long_description=readme,
-    author='Bojan Žunkovič',
-    author_email='bojan.zunkovic@fri.uni-lj.si',
-    url='https://github.com/znajob/qml-tn.git',
+    author='Antonio Zegarra',
+    author_email='antonio.zegarra@fri.uni-lj.si',
+    url='https://github.com/antoniozegarrab/gamma_mat_xy',
     license=license,
     packages=["gamma_mat_xy"],
 )
