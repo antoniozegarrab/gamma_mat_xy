@@ -3,4 +3,4 @@ Traceback (most recent call last):
   File "/ceph/hpc/home/zegarraa/gamma_mat_xy/bin/observables_gamma.py", line 2, in <module>
     from gamma_mat_xy.quadratic_gamma import single_trajectory_gamma_mat_evolution
 ModuleNotFoundError: No module named 'gamma_mat_xy'
-srun: error: cn0466: task 0: Exited with exit code 1
+srun: error: cn0227: task 0: Exited with exit code 1
