@@ -1,0 +1,7 @@
+RPg1N250e0; cpu; 32; 32; cpu; python observables_gamma.py --savedir /ceph/hpc/home/zegarraa/gamma_mat_xy/data_g --N 250 --angle_init 0 --ntim 1000 --eta 0 --gevol_start 0.0
+RPg2N250e0; cpu; 32; 32; cpu; python observables_gamma.py --savedir /ceph/hpc/home/zegarraa/gamma_mat_xy/data_g --N 250 --angle_init 0 --ntim 1000 --eta 0 --gevol_start 0.5
+RPg3N250e0; cpu; 32; 32; cpu; python observables_gamma.py --savedir /ceph/hpc/home/zegarraa/gamma_mat_xy/data_g --N 250 --angle_init 0 --ntim 1000 --eta 0 --gevol_start 1.0
+RPg4N250e0; cpu; 32; 32; cpu; python observables_gamma.py --savedir /ceph/hpc/home/zegarraa/gamma_mat_xy/data_g --N 250 --angle_init 0 --ntim 1000 --eta 0 --gevol_start 1.5
+RPg5N250e0; cpu; 32; 32; cpu; python observables_gamma.py --savedir /ceph/hpc/home/zegarraa/gamma_mat_xy/data_g --N 250 --angle_init 0 --ntim 1000 --eta 0 --gevol_start 2.0
+RPg6N250e0; cpu; 32; 32; cpu; python observables_gamma.py --savedir /ceph/hpc/home/zegarraa/gamma_mat_xy/data_g --N 250 --angle_init 0 --ntim 1000 --eta 0 --gevol_start 2.5
+RPg7N250e0; cpu; 32; 32; cpu; python observables_gamma.py --savedir /ceph/hpc/home/zegarraa/gamma_mat_xy/data_g --N 250 --angle_init 0 --ntim 1000 --eta 0 --gevol_start 3.0
