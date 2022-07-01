@@ -1,5 +1,5 @@
 import argparse
-from gamma_mat_xy.quadratic_gamma.py import single_trajectory_gamma_mat_evolution
+from gamma_mat_xy.quadratic_gamma import single_trajectory_gamma_mat_evolution
 import numpy as np
 
 def phase_diagram_slice(eta, N, angle_init, dt, ntim, savedir, output, anglesinit, gevol_start=0, gevol_end=10):
